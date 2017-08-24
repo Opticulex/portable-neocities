@@ -9,4 +9,4 @@ api.upload([
   {name: 'derp.js', path: './index.js'}
 ], function(resp) {
   console.log(resp)
-}))
+})
